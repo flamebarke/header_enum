@@ -4,12 +4,15 @@ A simple python script to enumerate subdomains for a given domain and then pull 
 
 Installation:
 
-`git clone https://github.com/flamebarke/header_enum.git'
+`git clone https://github.com/flamebarke/header_enum.git`
+
 `pip3 install requests`
+
 `pip3 install urllib3`
 
 Usage:
 
 `python3 ./header_enum.py [domain]`
+
 `example: pythn3 ./header_enum.py google.com`
 
