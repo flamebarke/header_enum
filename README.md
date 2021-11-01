@@ -14,5 +14,5 @@ Usage:
 
 `python3 ./header_enum.py [domain]`
 
-`example: pythn3 ./header_enum.py google.com`
+`example: python3 ./header_enum.py google.com`
 
