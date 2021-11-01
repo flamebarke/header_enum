@@ -10,6 +10,10 @@ Installation:
 
 `pip3 install urllib3`
 
+Linux: `sudo apt-get install amass`
+
+Mac: `brew install amass`
+
 Usage:
 
 `python3 ./header_enum.py [domain]`
