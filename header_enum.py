@@ -1,4 +1,5 @@
 #!/user/bin/python3
+# Author: Shain Lakin
 
 import os
 import sys
